@@ -1,2 +1,2 @@
 # Coca-Cola
- Animação em CSS com efeito hover:
+ Animação em CSS com efeito houver:
